@@ -75,6 +75,8 @@ df_selected_for_more[df_selected_for_more['customer'] == 1000096].head(1)
 # - BRANCH / CHECKOUT / HEAD
 # - COMMIT | PUSH | PULL | MERGE | REBASE
 # - GIT FLOW
+# TEEEST
+
 
 
 # In[ ]:
